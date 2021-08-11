@@ -5,15 +5,15 @@ import java.security.spec.RSAOtherPrimeInfo;
 public class PrintDemo {
 
 
-    public static void PrintOne(){
+    public void PrintOne(){
         System.out.println("1");
     }
 
-    public static void PrintTwo(){
+    public void PrintTwo(){
         System.out.println("2");
     }
 
-    public static void PrintThree(){
+    public void PrintThree(){
         System.out.println("3");
     }
 }
